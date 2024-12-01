@@ -1,0 +1,14 @@
+#main{
+    color: maroon;
+}
+
+.post{
+    background-color: rgb(204, 191, 191);
+}
+.user{
+    font-style: italic;
+}
+
+a{
+    text-decoration: none;
+}
